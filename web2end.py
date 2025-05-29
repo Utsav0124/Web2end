@@ -9,8 +9,8 @@ import pyfiglet
 def print_banner():
     banner = pyfiglet.figlet_format("WEB2END")
     print(banner)
-    print("=== Kali Linux Web Recon & Basic Vuln Scan Tool ===\n")
-
+    print("=== THIS TOOLS IS DEVELOP BY UTSAV SHARMA $$$  ===\n")
+print (" IT IS ONLY FOR EDUCATIONAL PURPOSE ")
 def run_theharvester(domain):
     print(f"\n[+] Running theHarvester on {domain} ...")
     try:
