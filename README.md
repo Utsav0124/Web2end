@@ -27,7 +27,7 @@ sudo apt update && sudo apt upgrade -y
 
 sudo apt install python3 python3-pip -y
 
-git clone 
+https://github.com/Utsav0124/web2end.git
 cd web2end
 
 pip3 install requests pyfiglet socket dnspython whois
